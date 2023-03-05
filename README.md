@@ -1,7 +1,12 @@
 # Laravel-Vue-Weather-App
 
-
 In order to get the weather api to work, you will need API key from [Weather API](https://weatherapi.com). Signup to obtain API KEY
+
+
+<img src="https://github.com/ket-c/laravel-vue-weather-app/blob/main/Screenshot%202023-03-05%20at%2011.46.18%20AM.png" width="100%"/>
+ <img src="https://github.com/ket-c/laravel-vue-weather-app/blob/main/Screenshot%202023-03-05%20at%2011.46.05%20AM.png" width="100%"/>
+
+
 
 
 ## Installation
